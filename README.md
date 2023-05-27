@@ -1,7 +1,9 @@
+
 <a href="https://www.hackerrank.com/">
     <img src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" alt="HackerRank Logo" width="400" height="100">
 </a>
 
+# HackerRank - Algorithms and Data Structures
 This repository contains the challenges for algorithms and data structures from the HackerRank website. HackerRank is a platform that provides coding challenges and competitions for developers to improve their skills.
 
 ## Table of Contents
