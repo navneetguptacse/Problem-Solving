@@ -1,4 +1,4 @@
-[![HackerRank Logo](https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png){:height="100px" width="400px"}](https://www.hackerrank.com/)
+[![HackerRank Logo](https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png){height="100px" width="400px"}](https://www.hackerrank.com/)
 
 
 This repository contains the challenges for algorithms and data structures from the HackerRank website. HackerRank is a platform that provides coding challenges and competitions for developers to improve their skills.
