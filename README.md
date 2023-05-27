@@ -1,17 +1,3 @@
-# HackerRank - Algorithms and Data Structures
-<div style='float: center; text-align: center; margin-bottom: 20px' align="center">
-  <a href='https://www.hackerrank.com/msgrubler' target="_blank">
-  <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
-  </a>
-</div>
-
-<p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-112-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2326-yellow.svg">
-	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
-</p>
-
-
 [![HackerRank Logo](https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png)](https://www.hackerrank.com/)
 
 This repository contains the challenges for algorithms and data structures from the HackerRank website. HackerRank is a platform that provides coding challenges and competitions for developers to improve their skills.
